@@ -1,0 +1,10 @@
+Sales in millions
+
+NA_Sales - Sales in North America
+EU_Sales - Sales in Europe
+JP_Sales - Sales in Japan
+Other_Sales - Sales in Rest of the World
+Global_Sales - Total Worldwide Sales
+
+'Misc' Genre
+ diverse category that encompasses games that don't fit neatly into specific genres
